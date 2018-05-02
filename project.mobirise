@@ -34,7 +34,13 @@
     "versionPublish": "4.7.2",
     "favicon": "@PROJECT_PATH@/assets/images/scavi-fortunato-trepuzzi-demolizioni-icon-128x128.png",
     "noImageResize": "",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsSwitcher": "on",
+    "siteUrl": "http://boyles.tk",
+    "sitemapSwitcherAuto": "on",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
